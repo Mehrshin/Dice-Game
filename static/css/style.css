@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.right-align {
+    text-align: right;
+}
